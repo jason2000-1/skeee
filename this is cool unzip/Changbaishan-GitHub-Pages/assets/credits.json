@@ -1,0 +1,100 @@
+{
+  "tianchi": {
+    "source_url": "https://commons.wikimedia.org/wiki/File:Heaven_Lake,_Changbai.jpg",
+    "credit": "Charlie fong / Wikimedia Commons",
+    "license": "Public domain, released by photographer Charlie fong.",
+    "alt": "Blue Tianchi crater lake surrounded by snow-covered ridges of Changbai Mountain.",
+    "caption": "Tianchi after snowfall; photographed in October 2008."
+  },
+  "hannashan": {
+    "source_url": "https://www.wandaresorts.com/cn/explore/enjoy",
+    "credit": "Changbaishan Wanda International Resort; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Outdoor hot-spring pool surrounded by trees heavy with snow at Hannashan.",
+    "caption": "Hannashan hot springs in a snowy forest setting."
+  },
+  "waterpark": {
+    "source_url": "https://www.wandaresorts.com/cn/explore/enjoy",
+    "credit": "Changbaishan Wanda International Resort; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Visitors in a large blue indoor pool beside a yellow-and-orange waterslide.",
+    "caption": "Wanda Water Park’s indoor pool and slides."
+  },
+  "reindeer": {
+    "source_url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202601/t20260115_269486.html",
+    "credit": "Changbaishan News / Changbaishan government; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "A visitor in a red coat stands beside reindeer in a snowy woodland.",
+    "caption": "Reindeer encounters in the Changbaishan area."
+  },
+  "natural-museum": {
+    "source_url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202601/t20260112_269452.html",
+    "credit": "Changbaishan News / Changbaishan government; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Children and adults wearing yellow vests gather beside a forest wildlife display inside the museum.",
+    "caption": "A January 2026 learning visit to Changbaishan Natural Museum."
+  },
+  "meiren-pines": {
+    "source_url": "https://www.changbaishan.gov.cn/zwgk/zwdt/zbsyw/202601/t20260115_269486.html",
+    "credit": "Changbaishan News / Changbaishan government; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Tall pine trees rise above snow-covered ground beneath a pale winter sky.",
+    "caption": "Meiren Pine forest in winter."
+  },
+  "jinjiang-village": {
+    "source_url": "https://www.wandaresorts.com/cn/explore/enjoy",
+    "credit": "Changbaishan Wanda International Resort; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Wooden village houses on a hillside behind a footbridge, with flowering trees in spring.",
+    "caption": "Jinjiang wooden village in a warmer season."
+  },
+  "ice-world": {
+    "source_url": "https://www.gojilin.gov.cn/2025/12/22/c_14390.htm",
+    "credit": "Tian Jiaxin / gojilin.gov.cn",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Fireworks light the sky above a blue illuminated ice castle and performers on a stage.",
+    "caption": "Changchun Ice and Snow New World opening celebrations, December 2025."
+  },
+  "jingyuetan": {
+    "source_url": "https://www.gojilin.gov.cn/2024/01/10/c_12141.htm",
+    "credit": "gojilin.gov.cn; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Aerial view of Jingyuetan lake with snow along its wooded shoreline beneath a pastel sky.",
+    "caption": "Winter scenery at Jingyuetan National Scenic Area."
+  },
+  "film-museum": {
+    "source_url": "https://www.gojilin.gov.cn/2024/01/08/c_12259.htm",
+    "credit": "gojilin.gov.cn; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "A statue and broad steps in front of the brick Changchun Film Studio Museum building.",
+    "caption": "The historic Changchun Film Studio Museum entrance."
+  },
+  "palace": {
+    "source_url": "https://www.gojilin.gov.cn/2021/11/01/c_8034.htm",
+    "credit": "Photo provided to gojilin.gov.cn; photographer not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "A long historic palace building beside a paved courtyard and trees with golden autumn leaves.",
+    "caption": "Autumn at the Museum of the Imperial Palace of Manchukuo."
+  },
+  "this-hill": {
+    "source_url": "https://www.gojilin.gov.cn/2022/06/21/c_9337.htm",
+    "credit": "WeChat account of Changchun Wenlyu / gojilin.gov.cn",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Indoor planting, balconies and timber-style shopfronts beneath the glass roof of The Hill.",
+    "caption": "The Hill’s indoor landscape and terraced shopfronts."
+  },
+  "sculpture-park": {
+    "source_url": "https://www.gojilin.gov.cn/2022/06/15/c_9305.htm",
+    "credit": "Video provided to gojilin.gov.cn; creator not named",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Aerial view of a tall sculpture in a circular plaza surrounded by snowy paths and trees.",
+    "caption": "A winter view of Changchun World Sculpture Park."
+  },
+  "zoo": {
+    "source_url": "https://www.gojilin.gov.cn/changchun/2022/05/16/c_9200.htm",
+    "credit": "WeChat account of Changchun Wenlyu / gojilin.gov.cn",
+    "license": "Copyright retained; no open reuse license stated on source page.",
+    "alt": "Sunlight shines through trees above pink flowering shrubs in the park.",
+    "caption": "Spring grounds at Changchun Zoological and Botanical Park."
+  }
+}
